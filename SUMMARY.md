@@ -7,3 +7,4 @@
   * [4.switch语句](readme/4.switch-yu-ju.md)
   * [5.while语句（随机数字语句）](readme/5.while-yu-ju-sui-ji-shu-zi-yu-ju.md)
   * [6.do while语句](readme/6.do-while-yu-ju.md)
+  * [7.数组](readme/7.-shu-zu.md)
