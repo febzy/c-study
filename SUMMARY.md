@@ -10,6 +10,8 @@
     * [6.do while语句](readme/ji-chu-zhi-shi/6.do-while-yu-ju.md)
     * [7.数组](readme/ji-chu-zhi-shi/7.-shu-zu.md)
     * [8.二维数组](readme/ji-chu-zhi-shi/8.-er-wei-shu-zu.md)
+    * [9.函数](readme/ji-chu-zhi-shi/9.-han-shu.md)
+    * [10.指针](readme/ji-chu-zhi-shi/10.-zhi-zhen.md)
   * [练习示例](readme/lian-xi-shi-li/README.md)
     * [水仙花数（do while语句）](readme/lian-xi-shi-li/shui-xian-hua-shu-do-while-yu-ju.md)
     * [猜数字游戏（while语句）](readme/lian-xi-shi-li/cai-shu-zi-you-xi-while-yu-ju.md)
