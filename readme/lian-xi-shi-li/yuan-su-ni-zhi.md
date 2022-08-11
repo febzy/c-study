@@ -1,6 +1,6 @@
 # 元素逆置
 
-```
+```cpp
 // Some code
 #include<iostream>
 using namespace std;

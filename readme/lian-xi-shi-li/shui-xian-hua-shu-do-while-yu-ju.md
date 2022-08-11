@@ -1,6 +1,6 @@
 # 水仙花数（do while语句）
 
-```
+```cpp
 #include<iostream>
 #include<math.h>
 using namespace std;

@@ -1,6 +1,6 @@
 # 猜数字游戏（while语句）
 
-```
+```cpp
 #include<iostream>
 using namespace std;
 

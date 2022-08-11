@@ -1,6 +1,6 @@
 # 冒泡排序
 
-```
+```cpp
 // Some code
 #include<iostream>
 using namespace std;
